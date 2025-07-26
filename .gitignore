@@ -1,0 +1,8 @@
+venv
+*.csv
+*.parquet
+ny_taxi_postgres_data
+.ipynb_checkpoints
+.virtual_documents
+output_parquet
+pipeline.py
